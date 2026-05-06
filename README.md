@@ -27,5 +27,5 @@ The analysis uses the "Africa Economic, Banking, and Systemic Crisis" dataset, w
 ## How to Run
 1. Clone this repository.
 2. Ensure you have the required dependencies installed: `pip install pandas numpy matplotlib seaborn scikit-learn scipy`.
-3. Open `final_project.ipynb` in a Jupyter environment.
+3. Open `Feven_Ethiopia_Final_project.ipynb` in a Jupyter environment.
 4. Run all cells to reproduce the analysis.
